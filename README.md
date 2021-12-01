@@ -7,4 +7,4 @@ What is helloworld?
 Hello world is a ground breaking yet simple program, consisting of one java class.
 While only using class, it is able to print out the line "Hello, World".
 
-![Code Screenshot](../code.png?raw=true "Screenshot")
+![Code Screenshot](./helloworld/code.png?raw=true "Screenshot")
